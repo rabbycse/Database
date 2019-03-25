@@ -6,4 +6,4 @@ This repository contains all of my works of CSE312(Database Management System wi
 <b>Course Teacher:</b>Professor Mr. Arman Askhari</br>
 Daffodil International University</br>
 Department of Computer Science and Engineering</br>
-Year : Spring '19</br>
+Season : Spring '19</br>
